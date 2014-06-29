@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-08-15">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="书名" title="书名" type="string"></attribute>
+      <attribute id="作者" title="作者" type="string"></attribute>
+      <attribute id="国别" title="国别" type="string"></attribute>
+      <attribute id="来源" title="来源" type="string"></attribute>
+      <attribute id="获得时间" title="获得时间" type="string"></attribute>
+      <attribute id="阅读情况" title="阅读情况" type="string"></attribute>
+      <attribute id="网址" title="网址" type="string"></attribute>
+      <attribute id="简介" title="简介" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="2" label="爆发">
+        <attvalues>
+          <attvalue for="书名" value="爆发"></attvalue>
+          <attvalue for="作者" value="艾伯特-拉斯洛・巴拉巴西"></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="朋友从亚马逊送来"></attvalue>
+          <attvalue for="获得时间" value="2013"></attvalue>
+          <attvalue for="阅读情况" value="看完了"></attvalue>
+          <attvalue for="简介" value="本书是一本超越《黑天鹅》的惊世之作。如果说塔勒布认为人类行为是随机的，都是小概率事件，是不可以预测的；那么全球复杂网络权威Barabasi则认为，人类行为93%是可以预测的。"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="1498.0745" y="-1776.9917" z="0.0"></viz:position>
+        <viz:color r="63" g="177" b="18"></viz:color>
+      </node>
+      <node id="3" label="印度：绝望与惊喜">
+        <attvalues>
+          <attvalue for="书名" value="印度：绝望与惊喜"></attvalue>
+          <attvalue for="作者" value="吴志伟"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="朋友邮寄来"></attvalue>
+          <attvalue for="获得时间" value="2012"></attvalue>
+          <attvalue for="阅读情况" value="基本翻完了"></attvalue>
+        </attvalues>
+        <viz:size value="266.6667"></viz:size>
+        <viz:position x="-2351.3784" y="-1735.6891" z="0.0"></viz:position>
+        <viz:color r="177" g="18" b="18"></viz:color>
+      </node>
+      <node id="4" label="就做自由商业撰稿人">
+        <attvalues>
+          <attvalue for="书名" value="就做自由商业撰稿人"></attvalue>
+          <attvalue for="作者" value="鲍尔曼"></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="超市低价书"></attvalue>
+          <attvalue for="获得时间" value="2011"></attvalue>
+          <attvalue for="阅读情况" value="看过一部分"></attvalue>
+        </attvalues>
+        <viz:size value="213.33334"></viz:size>
+        <viz:position x="3229.6846" y="-2883.3555" z="0.0"></viz:position>
+        <viz:color r="177" g="18" b="154"></viz:color>
+      </node>
+      <node id="5" label="朝圣-到印度圣地做什么">
+        <attvalues>
+          <attvalue for="书名" value="朝圣-到印度圣地做什么"></attvalue>
+          <attvalue for="作者" value="宗萨蒋扬钦哲仁波切"></attvalue>
+          <attvalue for="国别" value="不丹"></attvalue>
+          <attvalue for="来源" value="朋友亚马逊送来"></attvalue>
+          <attvalue for="获得时间" value="2012"></attvalue>
+          <attvalue for="阅读情况" value="看完了"></attvalue>
+        </attvalues>
+        <viz:size value="213.33334"></viz:size>
+        <viz:position x="-2454.867" y="-2623.1938" z="0.0"></viz:position>
+        <viz:color r="177" g="18" b="18"></viz:color>
+      </node>
+      <node id="6" label="商务文书写作处理">
+        <attvalues>
+          <attvalue for="书名" value="商务文书写作处理"></attvalue>
+          <attvalue for="作者" value="姬瑞环"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="书店买"></attvalue>
+          <attvalue for="阅读情况" value="曾经写邮件时用到过"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="2347.0303" y="-3566.6145" z="0.0"></viz:position>
+        <viz:color r="177" g="18" b="154"></viz:color>
+      </node>
+      <node id="7" label="上帝管两头我管中间">
+        <attvalues>
+          <attvalue for="书名" value="上帝管两头我管中间"></attvalue>
+          <attvalue for="作者" value="李敖"></attvalue>
+          <attvalue for="国别" value="台湾"></attvalue>
+          <attvalue for="来源" value="很早以前买的"></attvalue>
+          <attvalue for="阅读情况" value="看过其中一些"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="-3192.8867" y="524.9663" z="0.0"></viz:position>
+        <viz:color r="177" g="18" b="18"></viz:color>
+      </node>
+      <node id="8" label="正见">
+        <attvalues>
+          <attvalue for="书名" value="正见"></attvalue>
+          <attvalue for="作者" value="宗萨蒋扬钦哲仁波切"></attvalue>
+          <attvalue for="国别" value="不丹"></attvalue>
+          <attvalue for="来源" value="朋友亚马逊送来"></attvalue>
+          <attvalue for="获得时间" value="2012"></attvalue>
+          <attvalue for="阅读情况" value="看完了"></attvalue>
+          <attvalue for="网址" value="http://www.almostbuddhist.com/"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="-167.83652" y="-3570.661" z="0.0"></viz:position>
+        <viz:color r="177" g="18" b="18"></viz:color>
+      </node>
+      <node id="9" label="PHP5应用开发">
+        <attvalues>
+          <attvalue for="书名" value="PHP5应用开发"></attvalue>
+          <attvalue for="作者" value="秦涛"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="北京买的"></attvalue>
+          <attvalue for="阅读情况" value="用过"></attvalue>
+        </attvalues>
+        <viz:size value="213.33334"></viz:size>
+        <viz:position x="-1903.9016" y="2093.2812" z="0.0"></viz:position>
+        <viz:color r="18" g="177" b="109"></viz:color>
+      </node>
+      <node id="10" label="新闻理论十讲">
+        <attvalues>
+          <attvalue for="书名" value="新闻理论十讲"></attvalue>
+          <attvalue for="作者" value="陈力丹"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="北京人大出版社买的"></attvalue>
+          <attvalue for="获得时间" value="2011"></attvalue>
+          <attvalue for="阅读情况" value="只看了几节"></attvalue>
+          <attvalue for="网址" value="http://book.douban.com/subject/3104870/"></attvalue>
+          <attvalue for="简介" value="清晰易懂有涵养的书。"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="3259.2393" y="-1732.7826" z="0.0"></viz:position>
+        <viz:color r="177" g="18" b="154"></viz:color>
+      </node>
+      <node id="11" label="运营数字媒体">
+        <attvalues>
+          <attvalue for="书名" value="运营数字媒体"></attvalue>
+          <attvalue for="作者" value="周荣庭"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="作者赠书"></attvalue>
+          <attvalue for="获得时间" value="2012"></attvalue>
+          <attvalue for="阅读情况" value="用一天时间看/翻完"></attvalue>
+          <attvalue for="网址" value="http://book.douban.com/subject/10558771/"></attvalue>
+          <attvalue for="简介" value="《融合文化:运营数字媒体》将从数字媒体的最新发展切入，进行数字媒体领域的内容制作、运营管理、电子商务、产业发展、政策法规、中外应用等阐述，具有新颖性和实用性。《融合文化:运营数字媒体》全面、系统地论述数字媒体的运营的理论与实践。营运数字媒体是学术界、互联网业内以及年轻人普遍关注的话题，《融合文化:运营数字媒体》不仅构建理论体系，而且重视实践平台的运营和创新发展，对传统媒体行业和互联网产业具有一定的指导意义。"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="2336.27" y="178.95813" z="0.0"></viz:position>
+        <viz:color r="63" g="177" b="18"></viz:color>
+      </node>
+      <node id="12" label="Python学习手册">
+        <attvalues>
+          <attvalue for="书名" value="Python学习手册"></attvalue>
+          <attvalue for="作者" value="Mark Lutz"></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="北京买的"></attvalue>
+          <attvalue for="阅读情况" value="基本没有怎么用上的书"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="-700.1825" y="3283.7258" z="0.0"></viz:position>
+        <viz:color r="18" g="177" b="109"></viz:color>
+      </node>
+      <node id="13" label="可爱的 Python">
+        <attvalues>
+          <attvalue for="书名" value="可爱的 Python"></attvalue>
+          <attvalue for="作者" value="哲思社区"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="当当网购"></attvalue>
+          <attvalue for="阅读情况" value="做过开始几个例子"></attvalue>
+        </attvalues>
+        <viz:size value="266.6667"></viz:size>
+        <viz:position x="-1549.3522" y="2881.065" z="0.0"></viz:position>
+        <viz:color r="18" g="177" b="109"></viz:color>
+      </node>
+      <node id="14" label="数据可视化之美">
+        <attvalues>
+          <attvalue for="书名" value="数据可视化之美"></attvalue>
+          <attvalue for="作者" value="Steele&amp;Lliinsky "></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="当当网购"></attvalue>
+          <attvalue for="获得时间" value="2012"></attvalue>
+          <attvalue for="阅读情况" value="看过一些"></attvalue>
+          <attvalue for="网址" value="http://www.amazon.cn/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E7%BE%8E-Julie-Steele/dp/B0053WMHLK/ref=sr_1_1?ie=UTF8&amp;qid=1376545287&amp;sr=8-1&amp;keywords=%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E7%BE%8E"></attvalue>
+          <attvalue for="简介" value="可视化是数据描述的图形表示，旨在一目了然地揭示数据中的复杂信息。可视化的典型如纽约地铁图和人脑图。成功的可视化的美丽之处既在于其艺术设计，也在于其通过对细节的优雅展示，能够有效地产生对数据的洞察和新的理解。"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="-743.03314" y="-757.5626" z="0.0"></viz:position>
+        <viz:color r="63" g="177" b="18"></viz:color>
+      </node>
+      <node id="15" label="数据可视化指南">
+        <attvalues>
+          <attvalue for="书名" value="数据可视化指南"></attvalue>
+          <attvalue for="作者" value="Nathan Yau"></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="朋友从亚马逊送来"></attvalue>
+          <attvalue for="获得时间" value="2012"></attvalue>
+          <attvalue for="阅读情况" value="看过一些"></attvalue>
+          <attvalue for="网址" value="http://book.douban.com/subject/19952397/"></attvalue>
+          <attvalue for="简介" value="Nathan Yau 加州大学洛杉矶分校统计学专业在读博士、超级数据迷，专注于数据可视化与个人数据收集。他曾在《纽约时报》、CNN、Mozilla和SyFy工作过，认为数据和信息图不仅适用于分析，用来讲述与数据有关的故事也非常合适。Yau的目标是让非专业人士读懂并用好数据。他创建了一个设计、可视化和统计方面的博http://flowingdata.com，你可以从中欣赏到他最新的数据可视化实验作品。"></attvalue>
+        </attvalues>
+        <viz:size value="266.6667"></viz:size>
+        <viz:position x="-203.14386" y="121.868935" z="0.0"></viz:position>
+        <viz:color r="63" g="177" b="18"></viz:color>
+      </node>
+      <node id="16" label="社会网络分析">
+        <attvalues>
+          <attvalue for="书名" value="社会网络分析"></attvalue>
+          <attvalue for="作者" value="戴维-诺克"></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="亚马逊网购"></attvalue>
+          <attvalue for="获得时间" value="2013"></attvalue>
+          <attvalue for="阅读情况" value="看过几节"></attvalue>
+          <attvalue for="网址" value="http://book.douban.com/subject/2009919/"></attvalue>
+          <attvalue for="简介" value="本书就像一本手册，引导读者进入社会网络分析的研究领域。它既适用于社会网络分析的初学者，也适用于对社会网络分析有所了解的人士。"></attvalue>
+        </attvalues>
+        <viz:size value="320.0"></viz:size>
+        <viz:position x="1507.7742" y="-570.6249" z="0.0"></viz:position>
+        <viz:color r="63" g="177" b="18"></viz:color>
+      </node>
+      <node id="17" label="周国平文集">
+        <attvalues>
+          <attvalue for="书名" value="周国平文集"></attvalue>
+          <attvalue for="作者" value="周国平"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="朋友邮寄来"></attvalue>
+          <attvalue for="获得时间" value="2010"></attvalue>
+          <attvalue for="阅读情况" value="第三卷说尼采的看过一部分"></attvalue>
+          <attvalue for="简介" value="散文部分基本上不感兴趣，谈哲学学习过程的感觉还不错。"></attvalue>
+        </attvalues>
+        <viz:size value="213.33334"></viz:size>
+        <viz:position x="-2866.949" y="-147.7391" z="0.0"></viz:position>
+        <viz:color r="177" g="18" b="18"></viz:color>
+      </node>
+      <node id="18" label="复杂网络理论及其应用">
+        <attvalues>
+          <attvalue for="书名" value="复杂网络理论及其应用"></attvalue>
+          <attvalue for="作者" value="汪小帆"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="亚马逊网购"></attvalue>
+          <attvalue for="获得时间" value="2013"></attvalue>
+          <attvalue for="阅读情况" value="看过开头几节"></attvalue>
+          <attvalue for="网址" value="http://book.douban.com/subject/1808611/"></attvalue>
+          <attvalue for="简介" value="复杂网络研究正渗透到数理学科、生命学科和工程学科等众多不同的领域，对复杂网络的定量与定性特征的科学理解已成为网络时代科学研究中一个极其重要的挑战性课题。本书致力于系统地介绍复杂网络的基础知识和研究进展。由于复杂网络研究具有很强的跨学科特色，并且新的问题和研究成果不断涌现，因此本书着眼于复杂网络研究中已经取得的主要研究进展。主要内容包括：网络拓扑特性与模型，复杂网络上的传播行为、相继故障、搜索算法和社团结构，以及复杂网络的同步与控制。本书还详细介绍了作者们在复杂网络领域的有关工作。"></attvalue>
+        </attvalues>
+        <viz:size value="213.33334"></viz:size>
+        <viz:position x="-303.8538" y="1171.3202" z="0.0"></viz:position>
+        <viz:color r="63" g="177" b="18"></viz:color>
+      </node>
+      <node id="19" label="神经心理学">
+        <attvalues>
+          <attvalue for="书名" value="神经心理学"></attvalue>
+          <attvalue for="作者" value="贾艾斯"></attvalue>
+          <attvalue for="国别" value="英国"></attvalue>
+          <attvalue for="来源" value="书店买"></attvalue>
+          <attvalue for="阅读情况" value="看过一些"></attvalue>
+        </attvalues>
+        <viz:size value="266.6667"></viz:size>
+        <viz:position x="4524.881" y="290.9511" z="0.0"></viz:position>
+        <viz:color r="177" g="154" b="18"></viz:color>
+      </node>
+      <node id="20" label="肠子">
+        <attvalues>
+          <attvalue for="书名" value="肠子"></attvalue>
+          <attvalue for="作者" value="帕拉尼克"></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="当当网购"></attvalue>
+          <attvalue for="阅读情况" value="只简单的翻了一下，写的是玄妙"></attvalue>
+          <attvalue for="网址" value="http://book.douban.com/review/4795125/"></attvalue>
+          <attvalue for="简介" value="肠子指的是从胃幽门至肛门的消化管。肠是消化管中最长的一段，也是功能最重要的一段。哺乳动物的肠包括小肠、大肠和直肠3大段。"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="2738.0837" y="2675.828" z="0.0"></viz:position>
+        <viz:color r="18" g="109" b="177"></viz:color>
+      </node>
+      <node id="21" label="终极推理事件簿">
+        <attvalues>
+          <attvalue for="书名" value="终极推理事件簿"></attvalue>
+          <attvalue for="作者" value="意林"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="孩子的书"></attvalue>
+          <attvalue for="获得时间" value="2013"></attvalue>
+          <attvalue for="阅读情况" value="孩子看了挺多的"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="2373.1504" y="1966.0374" z="0.0"></viz:position>
+        <viz:color r="18" g="109" b="177"></viz:color>
+      </node>
+      <node id="22" label="性心理学">
+        <attvalues>
+          <attvalue for="书名" value="性心理学"></attvalue>
+          <attvalue for="作者" value="霭理士"></attvalue>
+          <attvalue for="国别" value="英国"></attvalue>
+          <attvalue for="来源" value="朋友邮寄来"></attvalue>
+          <attvalue for="获得时间" value="2012"></attvalue>
+          <attvalue for="阅读情况" value="未读"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="4166.4575" y="1342.9707" z="0.0"></viz:position>
+        <viz:color r="177" g="154" b="18"></viz:color>
+      </node>
+      <node id="23" label="黑客大曝光">
+        <attvalues>
+          <attvalue for="书名" value="黑客大曝光"></attvalue>
+          <attvalue for="作者" value="麦克卢尔"></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="很久以前报销买的"></attvalue>
+          <attvalue for="阅读情况" value="翻过几篇"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="-2324.4043" y="1472.82" z="0.0"></viz:position>
+        <viz:color r="18" g="177" b="109"></viz:color>
+      </node>
+      <node id="24" label="生活的艺术">
+        <attvalues>
+          <attvalue for="书名" value="生活的艺术"></attvalue>
+          <attvalue for="作者" value="葛印卡"></attvalue>
+          <attvalue for="国别" value="印度"></attvalue>
+          <attvalue for="来源" value="朋友邮寄来"></attvalue>
+          <attvalue for="获得时间" value="2012"></attvalue>
+          <attvalue for="阅读情况" value="快速看了一遍"></attvalue>
+          <attvalue for="网址" value="http://www.udaya.dhamma.org/"></attvalue>
+          <attvalue for="简介" value="我們每一個人都希望得到平靜與和諧，因為我們的生活中缺乏了平靜與和諧。我們每個人都時常會經驗到情緒上的動盪，刺激，不和諧，與痛苦；當一個人因此而受苦時，他的痛苦不會僅限於自身，他也會把痛苦傳給其他人。受苦的人四周都瀰漫著激動的氣氛。每個接觸到他的人，也會受到刺激，變得激動。當然這不是一種正確的生活方式。 "></attvalue>
+        </attvalues>
+        <viz:size value="213.33334"></viz:size>
+        <viz:position x="-2570.2644" y="-864.05646" z="0.0"></viz:position>
+        <viz:color r="177" g="18" b="18"></viz:color>
+      </node>
+      <node id="25" label="整体性和隐藏序">
+        <attvalues>
+          <attvalue for="书名" value="整体性和隐藏序"></attvalue>
+          <attvalue for="作者" value="戴维・波姆"></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="当当网购"></attvalue>
+          <attvalue for="获得时间" value="2000"></attvalue>
+          <attvalue for="阅读情况" value="度过有一半"></attvalue>
+          <attvalue for="网址" value="http://book.douban.com/subject/1324825/"></attvalue>
+          <attvalue for="简介" value="玻姆教授提出了一种合理而科学的理论来说明宇宙论和实在的本性，如我们所观察到的那样，其说明方式并不把被说明的对象跟（我们所经验的）意识割裂开来。本书文字清晰，无晦涩的专业术语。特别适合于对于物理学、哲学、心理学有兴趣以及从事意识与物质关系研究的读者们。 "></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="833.2189" y="2003.9885" z="0.0"></viz:position>
+        <viz:color r="63" g="18" b="177"></viz:color>
+      </node>
+      <node id="26" label="人间是剧场">
+        <attvalues>
+          <attvalue for="书名" value="人间是剧场"></attvalue>
+          <attvalue for="作者" value="宗萨蒋扬钦哲仁波切"></attvalue>
+          <attvalue for="国别" value="不丹"></attvalue>
+          <attvalue for="来源" value="朋友邮寄来"></attvalue>
+          <attvalue for="获得时间" value="2012"></attvalue>
+          <attvalue for="阅读情况" value="看过一遍"></attvalue>
+          <attvalue for="网址" value="http://www.almostbuddhist.com/"></attvalue>
+          <attvalue for="简介" value="《人间是剧场》是宗萨蒋扬钦哲仁波切在世界各地的开示合集，以简单透彻的语言，说明佛教最核心的正知灼见。仁波切希望借由书中的文字，能够带领众人更接近佛法。仁波切的文字看似简单，却包含了深入浅出的层层奥义。 "></attvalue>
+        </attvalues>
+        <viz:size value="266.6667"></viz:size>
+        <viz:position x="-1019.70435" y="-2953.844" z="0.0"></viz:position>
+        <viz:color r="177" g="18" b="18"></viz:color>
+      </node>
+      <node id="27" label="大脑使用手册">
+        <attvalues>
+          <attvalue for="书名" value="大脑使用手册"></attvalue>
+          <attvalue for="作者" value="G-阿门"></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="网购？记不清了"></attvalue>
+          <attvalue for="阅读情况" value="在twitter 上经常看见作者，真希望有可能的话，用他的机器扫描一下自己的脑子"></attvalue>
+          <attvalue for="网址" value="http://www.amenclinics.com/"></attvalue>
+          <attvalue for="简介" value="1、大脑是很重要的，照顾好它是你生活的一部分。 2、保护你的大脑远离外伤、情感创伤和压力、有毒物质（毒品和酗酒）和睡眠不足的影响。 3、加强大脑营养的忠告：增加饮水、限制卡路里、多吃鱼鱼油，区别好脂肪与坏脂肪、增加富含抗氧化剂的饮食、有计划的增加零食。 4、对大脑最好的锻炼是学习新的知识以及做哪些你以前从未做过的事......"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="3729.029" y="-722.7649" z="0.0"></viz:position>
+        <viz:color r="177" g="154" b="18"></viz:color>
+      </node>
+      <node id="28" label="数学的语言">
+        <attvalues>
+          <attvalue for="书名" value="数学的语言"></attvalue>
+          <attvalue for="作者" value="齐斯・德福林 "></attvalue>
+          <attvalue for="国别" value="美国"></attvalue>
+          <attvalue for="来源" value="西安时和朋友逛书店买的"></attvalue>
+          <attvalue for="获得时间" value="2013"></attvalue>
+          <attvalue for="阅读情况" value="只看了第一章，本希望是对于数学不好的人理解数学提供帮助，不过还是读着读着就感觉难了。"></attvalue>
+          <attvalue for="网址" value="http://book.douban.com/subject/20370475/"></attvalue>
+          <attvalue for="简介" value="《数学的语言:化无形为可见》内容简介：数学是一种模式的科学，是我们看待世界，包括外在的物理、生物与社会世界，和内在心智世界的一种方式。数学的美，隐藏在数字、点、线与面、几何图形、函数等符号中。从古典数学（代数）到现代语言分析，从几何学、微积分到拓扑学、统计学及物理学，本书将从各学科层面，提示如何用数学去看见自然里不可见的结构；同时，从数学的发迹讲起，直至今日发展，提供一个清楚而贯通的网络。"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="1010.995" y="2682.7957" z="0.0"></viz:position>
+        <viz:color r="63" g="18" b="177"></viz:color>
+      </node>
+      <node id="29" label="世界著名心理学家-勒温">
+        <attvalues>
+          <attvalue for="书名" value="世界著名心理学家-勒温"></attvalue>
+          <attvalue for="作者" value="李明"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="人大出版社"></attvalue>
+          <attvalue for="获得时间" value="2013-7"></attvalue>
+          <attvalue for="阅读情况" value="看了开头部分，使人兴奋的是，他把人类的心理可以用明确的物件标示出来，这对于理解很有帮助。"></attvalue>
+          <attvalue for="网址" value="http://zh.wikipedia.org/zh/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%8B%92%E6%B8%A9"></attvalue>
+          <attvalue for="简介" value="库尔特・勒温（Kurt Zadek Lewin，1890年9月9日－1947年2月12日）是一位德裔美国心理学家，他是现代社会心理学、组织心理学和应用心理学的创始人，常被称为“社会心理学之父”，最早研究群体动力学和组织发展。"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="5747.1196" y="-144.06215" z="0.0"></viz:position>
+        <viz:color r="177" g="154" b="18"></viz:color>
+      </node>
+      <node id="30" label="新概念Linux教程">
+        <attvalues>
+          <attvalue for="书名" value="新概念Linux教程"></attvalue>
+          <attvalue for="作者" value="杜炜"></attvalue>
+          <attvalue for="国别" value="中国"></attvalue>
+          <attvalue for="来源" value="很早以前北京买的"></attvalue>
+          <attvalue for="阅读情况" value="当时摸索Linux应该经常翻，不过现在忘光了。"></attvalue>
+          <attvalue for="网址" value="http://book.xuexi365.com/ebook/detail_10441652.html"></attvalue>
+          <attvalue for="简介" value="全书由21章组成。考虑到绝大多数操作人员的实际情况，本书介绍的都是最基本的内容，并在此基础上进行适当扩展。因此，本书适合初学者和具有一定基础知识并希望进一步提高的读者，也适合作为各类计算机培训班的使用教材。"></attvalue>
+        </attvalues>
+        <viz:size value="160.0"></viz:size>
+        <viz:position x="-2254.7778" y="3423.4912" z="0.0"></viz:position>
+        <viz:color r="18" g="177" b="109"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="2" target="16" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="3" target="5" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="3" target="24" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="3" target="26" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="6" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="10" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="9" target="13" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="16" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="13" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="14" target="15" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="16" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="18" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="17" target="7" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="16" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="22" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="27" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="29" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="20" target="21" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="9" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="17" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="26" target="5" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="26" target="8" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="25" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="30" target="13" type="undirected" label="测试">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
